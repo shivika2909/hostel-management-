@@ -1,1 +1,1 @@
-# hosttel-management-
+# hostel-management-
