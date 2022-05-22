@@ -1,0 +1,42 @@
+.backbox input[type="button"] {
+    border-color: #ffc107;
+    outline: none;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 20px;
+    float: right;
+    margin: 0;
+}
+
+.backbox input[type="button"]:hover {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+body {
+    margin: 0px;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("manage.JPG");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    opacity: 0.7;
+}
+
+.m1box {
+    width: 800px;
+    height: 500px;
+    background: #f3f1ed;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 20px 30px;
+}
